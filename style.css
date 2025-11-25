@@ -38,7 +38,7 @@ a:hover {
 .three {
   transition-property: background-color;
   transition-duration: 400ms;
-  transition-timiing-function: ease-out;
+  transition-timing-function: ease-out;
   transition-delay: 200ms;
 }
 
